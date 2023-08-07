@@ -1,0 +1,2 @@
+# grpc_uds_tcp_server_dotnet_demo
+C#のgRPCサーバーにてUnixDomainSocketとTCPを同時受けするデモです
